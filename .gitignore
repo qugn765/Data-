@@ -2,6 +2,7 @@
 kakaoapikey.txt
 roadapikey.txt
 guideSearchApi/
+chromedriver.exe
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
